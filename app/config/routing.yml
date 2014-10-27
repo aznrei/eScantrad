@@ -1,0 +1,5 @@
+es_backend:
+    resource: "@ESBackendBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
